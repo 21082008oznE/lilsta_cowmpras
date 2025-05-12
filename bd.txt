@@ -1,0 +1,2 @@
+url: https://mjsmaukiuwksoujiqxht.supabase.co
+key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1qc21hdWtpdXdrc291amlxeGh0Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDY1MzU1MzQsImV4cCI6MjA2MjExMTUzNH0.hqZBJyztmRO3ms_HzyeVIwZM7ufo5-udOMOfM2Ue4aE
