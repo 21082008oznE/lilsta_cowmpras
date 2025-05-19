@@ -1,3 +1,8 @@
+.cabecalho{
+    background: linear-gradient(to right #fff, #0ff);
+    border: solid 10px #000;
+}
+
 .titulo{
     text-align: center;
     padding: 15px;
