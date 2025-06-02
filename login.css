@@ -54,7 +54,7 @@ body {
     font-size: clamp(1.5rem, 2vw + 1rem, 2rem);
     color: var(--cor-text);
     margin-bottom: 1.5rem;
-    font-weight: 5000;
+    font-weight: 500;
     font-family: 'Comic Neue';
 
 }
