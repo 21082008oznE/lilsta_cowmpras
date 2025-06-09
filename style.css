@@ -36,6 +36,10 @@ body {
   align-items: center;
 }
 
+.cabecalho {
+    justify-content: center;
+}
+
 #logo {
     width: 150px;
     height: auto;
