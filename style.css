@@ -5,7 +5,7 @@
 :root {
     --cor-primaria: #1175cc;
     --cor-primaria-escura: #3a6180;
-    --cor-bg: #7e00cc; background: linear-gradient(90deg, rgba(126, 0, 204, 1) 0%, rgba(88, 0, 143, 1) 59%, rgba(42, 0, 69, 1) 100%);;
+    --cor-bg: #f5f7fa;
     --cor-branco: #ffffff;
     --cor-borda: #ddd;
     --cor-sombra: rgba(0, 0, 0, 0.15);
@@ -27,7 +27,8 @@
 
 body {
   font-family: var(--fonte);
-  background-color: var(--cor-bg);
+  background: #7e00cc;
+  background: linear-gradient(90deg, rgba(126, 0, 204, 1) 0%, rgba(88, 0, 143, 1) 59%, rgba(42, 0, 69, 1) 100%);;
   padding: 2rem;
   min-height: 100vh;
   color: var(--cor-texto);
